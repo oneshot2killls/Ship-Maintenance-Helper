@@ -16,7 +16,7 @@ Turret Unfucker - Unfucks turrets by resetting their values <br/>
 "reset" - resets the tool and regathers blocks
 
 Turret Reset Positiion - Resets turret positions to default and disables idle movement <br/>
-| Argument tag: "TPR:"<br/>
+| Argument tag: "TRP:"<br/>
 | Arguments: <br/>
 > "run" - runs the tool <br/>
 "reset" - resets the tool and regathers blocks
