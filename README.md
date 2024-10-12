@@ -2,7 +2,7 @@ A collection of tools to aid in ship maintenance
 
 Current Tools [3]:
 
-Interior Turret Helper - Will turn interior turret to show on hud if remaining ammon is below supplied threshold <br/>
+Interior Turret Helper - Will turn interior turret to show on hud if remaining ammo is below supplied threshold and back off if ammo goes above threshold<br/>
 | Argument tag: "ITH:" <br/>
 | Arguments:  <br/>
   > "run" - runs the tool <br/>
